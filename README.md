@@ -1,6 +1,6 @@
 # 🔐 Authentication System
 
-A secure and modern authentication system built using [your tech stack]. This project provides a complete user auth flow including registration, login, email verification, and secure session/token management.
+A secure and modern authentication system built using NEXTJS. This project provides a complete user auth flow including registration, login, email verification, and secure session/token management.
 
 ---
 
